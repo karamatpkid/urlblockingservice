@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">urlblocking</string>
+    <string name="accessibility_service_description">save you irrelvent data</string>
+</resources>
